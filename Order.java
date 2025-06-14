@@ -1,6 +1,7 @@
 import java.util.*;
 
-class Order{
+class Order{  // create Order class
+    // Attributes of the Order class
 	public String orderId;
 	public String customerId;
 	public String customerName;

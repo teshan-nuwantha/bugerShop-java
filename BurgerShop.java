@@ -1,7 +1,11 @@
 import java.util.*;
+class InnerBurgerShop {
 
+    
+}
 
-class Order {
+class Order { // create Order class
+    // Attributes of the Order class
     private String orderId;
     private String customerId;
     private String customerName;
